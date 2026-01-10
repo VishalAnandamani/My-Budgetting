@@ -1,0 +1,5 @@
+Date, Expense, Spender, Category, Paid By, Amount, Amount Owed, Comment
+2025-01-01, Grocery Store, Shared, Essentials, Vishal, 100.00, 50.00, Weekly grocery
+2025-01-05, Starbucks, Vishal, Luxury, Vishal, 15.00, 0.00, Coffee
+2025-01-10, Movie Tickets, Shared, Entertainment, Gouthami, 40.00, 20.00, Weekend movie
+2025-01-15, Amazon Gift, Gouthami, Gifts, Vishal, 50.00, 50.00, Gift for mom
